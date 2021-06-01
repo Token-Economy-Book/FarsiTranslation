@@ -6,13 +6,14 @@ Other languages: https://github.com/Token-Economy-Book/
 # Token Economy: Farsi Editions
 Translated from: Token Economy: How the Web3 reinvents the Internet. Second edition, first amended printing, Nov 2020.<br>
 The first edition was published by BlockchainHub Berlin https://blockchainhub.net in June 2019 under the title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” and had two amended editions.
+
 Author: Shermin Voshmgir <br>
 Publisher:Token Kitchen, 10119 Berlin <br>
 http://token.kitchen<br>
 Design: Justyna Zubrycka <br>
 Production: Caroline Helbing<br>
-Farsi Translation: Maliheh ملیحه MahdaviSefat مهدوی صفت <br>
-To support the translation team contact Maliheh MahdavSefat on Telegram: @MalihehMah 
+Translators: Maliheh ملیحه MahdaviSefat مهدوی صفت, 2. Mehdi Khalilzadeh (2 Chapters) <br>
+
 
 # Licence
 Copyleft 2020, Shermin Voshmgir: Creative Commons – CC BY-NC-SA<br>
